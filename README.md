@@ -5,7 +5,7 @@
 # Car Dealership Management Program
 This project, which is a topic of the Fundamentals of Programming course, involves creating a car dealership management entirely in C++. We are pleased to announce the release of a convenient console application for performing management system tasks like adding new car(s) to a data set, modifying and deleting car(s) from a data set, exporting order logs, etc.
 
-### Programmer: Jhon Keneth Ryan B. Namias
+### Programmer: yash ahlawat
 
 ### Title: Car Dealership Management Program
 
