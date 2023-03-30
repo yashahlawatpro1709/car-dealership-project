@@ -13,7 +13,6 @@ This project, which is a topic of the Fundamentals of Programming course, involv
 
 ### Date: December 16, 2022
 
-### Professor: Alban Ryan Rei
 
 ## Features
 Planned (✘) and currently working (✓) - but not necessarily fully completed - features:
